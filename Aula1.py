@@ -1,9 +1,6 @@
-print("Olá Mundo")
-# Escapei da Maldição
-print("Eu sou o Diogo Feiferberg")
-print('Lógica de Programaçao')
-print('Lógica','de','programaçao',sep="_")
-print('Lógica de programaçao',end='SENAI\n')
-print('Lógica',end=" ")
-print('de',end=" ")
-print('programaçao',end=" ")
+print('Olá Mundo!!')
+#Escapei da maldição
+print('Me Chamo Diogo Feiferberg')
+print('esse é o curso de:',end='')
+print('Lógica','de','programação')
+print('Frase','com','hifen',sep="-")
