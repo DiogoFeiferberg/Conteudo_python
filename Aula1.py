@@ -1,3 +1,5 @@
+from re import search
+
 print('Olá Mundo!!')
 #Escapei da maldição
 print('Me Chamo Diogo Feiferberg')
