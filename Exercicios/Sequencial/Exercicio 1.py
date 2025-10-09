@@ -1,0 +1,5 @@
+#EXERCICIOS
+#QUESTAO 1
+print("HELLO WORLD!!!!!")
+
+
