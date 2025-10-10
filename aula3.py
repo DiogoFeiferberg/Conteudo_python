@@ -2,11 +2,11 @@
 import math
 
 # + <- soma: soma o valor da esquerda com o da direita
-#- <- subtraçao:subtrai o valor da esquerda pelo da direita
-#* <- Multiplicaçao: multiplica o valor da esquerda com o da direita
-#/ <- Divisao:Divide o valor da esquerda pelo da direita
+# - <- subtraçao:subtrai o valor da esquerda pelo da direita
+# * <- Multiplicaçao: multiplica o valor da esquerda com o da direita
+# / <- Divisao:Divide o valor da esquerda pelo da direita
 
-#** <- potencia: Eleva o valor da esquerda pelo da direita
+# ** <- potencia: Eleva o valor da esquerda pelo da direita
 
 # Math.sqrt(valor) <- Raiz quadrada:Tira a raiz quadrada do valor
 # // <- Inteira da divisao:quando faz uma divisao que resulta em
