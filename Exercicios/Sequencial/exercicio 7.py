@@ -1,6 +1,5 @@
 lado1 = int(input("Entre com o valor do lado 1  :  "))
 
-
-dobro = int(input('o dobro da area é:  '))
+area = 2 * (lado1 * lado1)
 
 print("o dobro da area do quadrado é",area)
