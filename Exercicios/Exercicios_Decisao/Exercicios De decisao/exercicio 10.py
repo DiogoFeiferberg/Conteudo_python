@@ -1,5 +1,5 @@
-Turno = input("Digite o seu turno: (M - Matutino, V - Vespertino, N - Noturno:").upper()
-
+Turno = input("Digite o seu turno: (M - Matutino, V - Vespertino, N - Noturno:")
+Turno = Turno.upper()
 if   Turno == "M":
     print("Bom Dia")
 elif Turno == "V":
